@@ -1,0 +1,15 @@
+E:\Для учебы\ItogiBloka\DZ\bin\Debug\net6.0\DZ.exe
+E:\Для учебы\ItogiBloka\DZ\bin\Debug\net6.0\DZ.deps.json
+E:\Для учебы\ItogiBloka\DZ\bin\Debug\net6.0\DZ.runtimeconfig.json
+E:\Для учебы\ItogiBloka\DZ\bin\Debug\net6.0\DZ.dll
+E:\Для учебы\ItogiBloka\DZ\bin\Debug\net6.0\DZ.pdb
+E:\Для учебы\ItogiBloka\DZ\obj\Debug\net6.0\DZ.csproj.AssemblyReference.cache
+E:\Для учебы\ItogiBloka\DZ\obj\Debug\net6.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Для учебы\ItogiBloka\DZ\obj\Debug\net6.0\DZ.AssemblyInfoInputs.cache
+E:\Для учебы\ItogiBloka\DZ\obj\Debug\net6.0\DZ.AssemblyInfo.cs
+E:\Для учебы\ItogiBloka\DZ\obj\Debug\net6.0\DZ.csproj.CoreCompileInputs.cache
+E:\Для учебы\ItogiBloka\DZ\obj\Debug\net6.0\DZ.dll
+E:\Для учебы\ItogiBloka\DZ\obj\Debug\net6.0\refint\DZ.dll
+E:\Для учебы\ItogiBloka\DZ\obj\Debug\net6.0\DZ.pdb
+E:\Для учебы\ItogiBloka\DZ\obj\Debug\net6.0\DZ.genruntimeconfig.cache
+E:\Для учебы\ItogiBloka\DZ\obj\Debug\net6.0\ref\DZ.dll
